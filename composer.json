@@ -1,0 +1,13 @@
+{
+  "name": "toopay/bootstrap-markdown",
+  "description": "A bootstrap plugin for markdown editing",
+  "keywords": ["twitter","bootstrap","markdown","editor"],
+  "homepage": "https://github.com/toopay/bootstrap-markdown",
+  "authors": [
+    {
+      "name": "Taufan Aditya",
+      "homepage": "http://taufanaditya.com"
+    }
+  ],
+  "license": ["Apache-2.0"]
+}
